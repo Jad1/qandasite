@@ -1,0 +1,37 @@
+REFERNCES:
+
+(1) PHP,. date. [online] Available from: <php.net/manual/en/function.date.php> [Accessed 1st December]
+(Note: Date of publication could not be found)
+
+(2)Everard, B., (2011). PHP: Check if any part of a string is uppercase. [Online] Available from: <http://beneverard.co.uk/blog/php-check-if-any-part-of-a-string-is-uppercase/> [Accessed 23rd November 2013]
+
+(3)Stack overflow, (2010). What is the equivalent of document.createTextNode(' ') in jQuery. [online] Available at: <http://stackoverflow.com/questions/3412376/what-is-the-equivalent-of-document-createtextnode-in-jquery> [Accessed 15th December 2013]
+
+(4)Franklin, J. (2013). Beginning jQuery. Berkeley, CA: Apress, pp. 51-57 
+
+(5)Franklin, J. (2013). Beginning jQuery. Berkeley, CA: Apress, pp. 71-73 
+
+(6)Stack overflow, (2009). Get variable from PHP to JavaScript. [online] Available from: <http://stackoverflow.com/questions/415868/get-variable-from-php-to-javascript> [Accessed 24th December 2013]
+
+(7)PHP,. ctype_alnum. [online] Available from: <http://www.php.net/ctype_alnum> [Accessed 1st December]
+(Note: Date of publication could not be found)
+
+(8)PHP,. ctype_digit [online] Avaiablr from: <http://www.php.net/manual/en/function.ctype-digit.php> [Accessed 24th December 2013]
+(Note: Date of publication could not be found)
+
+(9)MDN., (2013). Array.prototype.sort(). [online] Available from: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FArray%2Fsort> [Accessed 30th December 2013]
+(Note: For this reference the last example in the "Description" section (regarding objects) was used) 
+
+(10)W3Schools,. Location replace() method. [Online] Available from: <http://www.w3schools.com/jsref/met_loc_replace.asp> [Accessed 24TH December 2013]
+
+(11)Stack overflow, (2013) JavaScript value not being recieved by PHP. [online] Available from: <http://stackoverflow.com/questions/20787711/javascript-value-not-being-received-by-php> [Accessed 26th December 2013]
+
+(12)Stack overflow, (2014). Dyanmic HTML Causing issue for Determining which Button was Clicked. [online] Available from: <http://stackoverflow.com/questions/20959926/dynamic-html-causing-issue-for-determining-which-button-was-clicked> [Accessed 6th January 2014]
+
+(13)Web On, Web Off,. Event Key Codes. [online] Available from: <http://www.webonweboff.com/tips/js/event_key_codes.aspx> [Accesssed 6th January 2014]
+Note: Date of publication could not be found.
+
+(14)PHP,. intval. [online] Available from: <http://uk3.php.net/intval> [Accessed 6th January 2014]
+Note: Date of publication could not be found.
+
+(15)Franklin, J. (2013). Beginning jQuery. Berkeley, CA: Apress, pp. 73-76 

@@ -1,0 +1,15 @@
+This website was developed on a local server using the CodeIgniter framework.
+
+ACCOUNTS FOR WEBSITE
+
+Regular user:
+username: user
+Password: Aa12345@
+
+Moderator:
+uername: mod
+Password: Cc12345@
+
+Administrator: 
+username admin
+Password: Bb12345@

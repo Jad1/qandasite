@@ -1,0 +1,102 @@
+body
+{
+	background:#cccccc;
+	font-family: Calibri, Arial, Serif;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+table
+{
+	border-collapse:collapse;
+	margin-left:auto;
+	margin-right:auto;
+	/*border:thick solid black; /*Testing purposes only*/
+}
+td,tr
+{
+	padding:10px;
+	/*border:thin solid black; /*Testing purposes only*/
+}
+
+h1
+ {
+	text-align:center;
+	font-size:30pt;
+}	
+
+.home_dynamic_table
+{
+	background-color:#eee; 
+}
+
+.small_input_field
+{
+	width:10px;
+}
+
+.medium_input_field
+{
+	width:35px;
+}
+
+.large_input_field, .home_dynamic_table
+{
+	width:100%;
+}
+
+td.large_cell
+{
+	width:300px;
+}
+
+tr.top_align, td.top_align
+{
+	vertical-align:top;
+}
+
+tr.left_align, td.left_align, div.left_align, span.left_align
+{
+	text-align:left;
+}
+
+tr.centre_align, td.centre_align, div.centre_align, span.centre_align
+{
+	text-align:center;
+}
+
+div.right_align, span.right_align
+{
+
+}
+
+.error_message
+{
+	color:red;
+}
+
+
+
+/*May not need these
+but keep just in case.*/
+/*.centre_table{
+margin-left:auto;
+margin-right:auto;
+}
+
+.left_table{
+margin-left:0;
+margin-right:auto;
+width:300px;
+}
+
+.right_table{
+margin-left:auto;
+margin-right:0;
+width:300px;
+}
+.top_table{
+margin-left:auto;
+margin-right:auto;
+width:900px;
+}*/
