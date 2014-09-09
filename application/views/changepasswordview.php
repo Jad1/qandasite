@@ -13,7 +13,7 @@ ID: w13651455
 		    <tr>
 				<td class='large_cell centre_align'>
 					<span class='left_align'>
-						<a href='/coursework2'>Home</a>&gt;
+						<a href='/qandasite/qandasite'>Home</a>&gt;
 						<span id='profileusername'><a href='/qandasite/qandasite/index.php/profilecontroller'>
 							<?php
 								if (isset($session['username'])) {print $session['username'];}

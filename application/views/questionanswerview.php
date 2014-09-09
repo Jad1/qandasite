@@ -272,7 +272,7 @@ ID: w13651455
 						//user and did not post the question themselves.
 						if ((visitorUsername == "") || ((visitorFlagValue == 1) && (visitorUsername != questionPoster)))
 						{
-							window.location.replace("/coursework2");
+							window.location.replace("/qandasite/qandasite");
 						}
 						else
 						{
@@ -299,7 +299,7 @@ ID: w13651455
 						if ((visitorUsername == "") || ((visitorFlagValue == 1) && (visitorUsername != questionPoster)))
 						{
 							//Redirect to home page automatically because user is not logged in.
-							window.location.replace('/coursework2');
+							window.location.replace('/qandasite/qandasite');
 						}
 						else
 						{
@@ -313,7 +313,7 @@ ID: w13651455
 								{
 									/*Redirect to new page
 									  See References.txt(10)*/
-									window.location.replace("/coursework2");
+									window.location.replace("/qandasite/qandasite");
 								},
 								error: function(jqXHR, status, error)
 								{
@@ -343,7 +343,7 @@ ID: w13651455
 						if ((visitorUsername == "") || ((visitorFlagValue == 1) && (visitorUsername != questionPoster)))
 						{
 							//Redirect to home page automatically because user is not logged in.
-							window.location.replace('/coursework2');
+							window.location.replace('/qandasite/qandasite');
 						}
 						else
 						{
@@ -394,7 +394,7 @@ ID: w13651455
 						//user and did not post the answer themselves.
 						if ((visitorUsername == "") || ((visitorFlagValue == 1) && (visitorUsername != answerPoster)))
 						{
-							window.location.replace("/coursework2");
+							window.location.replace("/qandasite/qandasite");
 						}
 						else
 						{
@@ -419,7 +419,7 @@ ID: w13651455
 						if ((visitorUsername == "") || ((visitorFlagValue == 1) && (visitorUsername != answerPoster)))
 						{
 							//Redirect to home page automatically because user is not logged in.
-							window.location.replace('/coursework2');
+							window.location.replace('/qandasite/qandasite');
 						}
 						else
 						{
@@ -464,7 +464,7 @@ ID: w13651455
 						if ((visitorUsername == "") || ((visitorFlagValue == 1) && (visitorUsername != answerPoster)))
 						{
 							//Redirect to home page automatically because user is not logged in.
-							window.location.replace('/coursework2');
+							window.location.replace('/qandasite/qandasite');
 						}
 						else
 						{

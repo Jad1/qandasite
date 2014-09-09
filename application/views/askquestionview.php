@@ -12,7 +12,7 @@ ID: w13651455
 		<table class='centre_table'>
 		    <tr>
 				<td class='large_cell centre_align'>
-					<span class='left_align'><a href='/coursework2'>Home</a>&gt;Ask question</span>
+					<span class='left_align'><a href='/qandasite/qandasite'>Home</a>&gt;Ask question</span>
 				</td>
 				<td class='large_cell centre_align'>
 					<span class='centre_align'><a href='/qandasite/qandasite/index.php//askquestioncontroller/logout'>Logout</a></span>

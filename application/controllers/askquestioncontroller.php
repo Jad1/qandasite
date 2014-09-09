@@ -20,7 +20,7 @@ REFERENCES:*/
 	public function index()
 	{
 		//Redirect user to home page if they aren't logged in.
-		if($x == "")
+		if($this->x == "")
 		{
 			redirect('/');
 		}
